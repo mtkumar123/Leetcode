@@ -1,0 +1,21 @@
+traversals
+
+dfs - 
+inorder - left, visit, right
+preorder - visit, left, right
+postorder - left, right, visit
+
+"pre/in/post" refers to when the root node, which store the value in the 
+middle, is visited, which is first, between first and last, 
+and last respectively.Note that left subtree is always visited before 
+right subtree.
+
+
+bfs - 
+level order
+
+binary tree subtree of another binary tree
+do inorder and pre/postorder store in different array
+do inorder and pre/postorder of second tree store in different array
+check for substring
+
